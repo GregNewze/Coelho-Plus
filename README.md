@@ -10,7 +10,6 @@ Este projeto foi desenvolvido com:
 
 - React.js (via [Create React App](https://github.com/facebook/create-react-app))  
 - HTML5, CSS3, JavaScript ES6+  
-- Deploy simplificado com GitHub Pages (opcional)
 
 ---
 
@@ -58,4 +57,5 @@ Este projeto foi criado para demonstrar habilidades em React, design responsivo 
 
 
 © 2025 Érico Nunes Carneiro – [GitHub](https://github.com/GregNewze)  
+
 
