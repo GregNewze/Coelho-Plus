@@ -1,59 +1,77 @@
-# Coelho-Plus
+# 🚀 Coelho-Plus
 
-Site fictício do suplemento Coelho+ – Energia e foco no seu ritmo, com design moderno e conteúdo fictício para fins de portfólio.
-
----
-
-## Getting Started with Create React App
-
-Este projeto foi iniciado com o [Create React App](https://github.com/facebook/create-react-app).
-
-### Scripts disponíveis
-
-No diretório do projeto, você pode rodar:
-
-#### `npm start`
-
-Executa o app no modo de desenvolvimento.  
-Abra [http://localhost:3000](http://localhost:3000) para vê-lo no navegador.
-
-A página recarrega automaticamente quando você faz mudanças.  
-Você também verá erros de lint no console.
-
-#### `npm test`
-
-Executa o test runner no modo interativo de observação.  
-Veja a seção sobre [executar testes](https://facebook.github.io/create-react-app/docs/running-tests) para mais informações.
-
-#### `npm run build`
-
-Cria o build de produção na pasta `build`.  
-Ele empacota o React em modo de produção e otimiza o build para melhor desempenho.
-
-O build é minificado e os nomes dos arquivos incluem hashes.  
-Seu app está pronto para ser publicado!
-
-Veja a seção sobre [deploy](https://facebook.github.io/create-react-app/docs/deployment) para mais informações.
-
-#### `npm run eject`
-
-**Aviso: esta operação não pode ser desfeita. Depois de usar `eject`, você não pode voltar atrás!**
-
-Se não estiver satisfeito com as ferramentas e configurações padrão, pode `eject` a qualquer momento. Esse comando remove a dependência única de build do projeto e copia todos os arquivos de configuração e dependências para dentro do seu projeto, para que você tenha controle total.
-
-Você não é obrigado a usar o `eject`. O conjunto padrão é adequado para pequenos e médios projetos.
+> **Site fictício do suplemento Coelho+** – Energia e foco no seu ritmo, com design moderno e conteúdo criado para fins de portfólio.
 
 ---
 
-## Saiba mais
+## 🛠️ Tecnologias e Ferramentas
 
-Você pode aprender mais na [documentação do Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
+Este projeto foi desenvolvido com:
 
-Para aprender React, confira a [documentação oficial do React](https://reactjs.org/).
+- React.js (via [Create React App](https://github.com/facebook/create-react-app))  
+- HTML5, CSS3, JavaScript ES6+  
+- Deploy simplificado com GitHub Pages (opcional)
 
-- [Divisão de código (Code Splitting)](https://facebook.github.io/create-react-app/docs/code-splitting)  
-- [Analisando o tamanho do bundle](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)  
-- [Fazendo um Progressive Web App](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)  
-- [Configuração avançada](https://facebook.github.io/create-react-app/docs/advanced-configuration)  
-- [Deploy](https://facebook.github.io/create-react-app/docs/deployment)  
-- [Resolução de problemas no build](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+## 📦 Scripts Disponíveis
+
+No diretório do projeto, execute:
+
+### `npm start`
+
+Inicia o app em modo de desenvolvimento.  
+Abra [http://localhost:3000](http://localhost:3000) para visualizar.  
+O app recarrega automaticamente ao editar arquivos.
+
+---
+
+### `npm test`
+
+Executa os testes em modo interativo.  
+[Mais detalhes](https://facebook.github.io/create-react-app/docs/running-tests).
+
+---
+
+### `npm run build`
+
+Gera a versão otimizada para produção na pasta `build`.  
+Os arquivos são minificados e preparados para deploy.
+
+---
+
+### `npm run eject`
+
+⚠️ **Aviso:** Esta operação é irreversível!  
+Use apenas se precisar personalizar profundamente o build e as configurações.
+
+---
+
+## 📚 Documentação & Referências
+
+- [Create React App - Guia oficial](https://facebook.github.io/create-react-app/docs/getting-started)  
+- [React Documentation](https://reactjs.org/)  
+- [Code Splitting](https://facebook.github.io/create-react-app/docs/code-splitting)  
+- [Analisando o bundle](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)  
+- [PWA (Progressive Web App)](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)  
+- [Deploy no GitHub Pages](https://facebook.github.io/create-react-app/docs/deployment)  
+
+---
+
+## 🎯 Sobre o Projeto
+
+O **Coelho-Plus** é um site fictício que apresenta um suplemento com uma proposta inovadora:  
+combinar energia e foco sem ansiedade, unindo cafeína natural com ingredientes calmantes.
+
+Este projeto foi criado para demonstrar habilidades em React, design responsivo e boas práticas de desenvolvimento web.
+
+---
+
+## 📫 Contato
+
+Quer saber mais ou colaborar? Abra uma issue ou envie um pull request!  
+Obrigado por visitar meu portfólio!  
+
+---
+
+© 2025 Érico Nunes Carneiro – [GitHub](https://github.com/GregNewze)  
