@@ -47,31 +47,15 @@ Use apenas se precisar personalizar profundamente o build e as configurações.
 
 ---
 
-## 📚 Documentação & Referências
-
-- [Create React App - Guia oficial](https://facebook.github.io/create-react-app/docs/getting-started)  
-- [React Documentation](https://reactjs.org/)  
-- [Code Splitting](https://facebook.github.io/create-react-app/docs/code-splitting)  
-- [Analisando o bundle](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)  
-- [PWA (Progressive Web App)](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)  
-- [Deploy no GitHub Pages](https://facebook.github.io/create-react-app/docs/deployment)  
-
----
-
 ## 🎯 Sobre o Projeto
 
 O **Coelho-Plus** é um site fictício que apresenta um suplemento com uma proposta inovadora:  
 combinar energia e foco sem ansiedade, unindo cafeína natural com ingredientes calmantes.
 
-Este projeto foi criado para demonstrar habilidades em React, design responsivo e boas práticas de desenvolvimento web.
+Este projeto foi criado para demonstrar habilidades em React, design responsivo e boas práticas de desenvolvimento web (além de ser um projeto do curso).
 
 ---
 
-## 📫 Contato
-
-Quer saber mais ou colaborar? Abra uma issue ou envie um pull request!  
-Obrigado por visitar meu portfólio!  
-
----
 
 © 2025 Érico Nunes Carneiro – [GitHub](https://github.com/GregNewze)  
+
